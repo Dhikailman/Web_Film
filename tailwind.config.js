@@ -167,7 +167,10 @@ module.exports = {
         500: "#38b6ff",
         600: "#eab308",
         700: "#71717a",
+        800: "#7f1d1d",
         900: "#171717",
+        100: "#8c151b",
+        200: "#420508",
       }
   
     }),
@@ -333,7 +336,8 @@ module.exports = {
         'monospace',
       ],
       inter: ['Inter'],
-      quicksand: ['quicksand']
+      quicksand: ['quicksand'], 
+      poppins: ['poppins']
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],
